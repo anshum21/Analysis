@@ -1,5 +1,5 @@
 # Analysis
-# 📊 SQL Portfolio Analysis Project
+# 📊 SQL Financial Analysis Project
 
 This project simulates a simplified investment portfolio and performs SQL-based financial analysis using historical asset prices. It calculates total portfolio value, individual asset allocation, and identifies top-performing tickers on a specific date.
 
