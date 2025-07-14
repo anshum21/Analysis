@@ -62,6 +62,16 @@ This project simulates a simplified investment portfolio and performs SQL-based 
 - Query optimization using subqueries and CTEs  
 - Portfolio performance analysis techniques
 
+- ## 📂 Data
+
+The dataset includes:
+- `assets.csv`: Master list of tickers and their sector classification
+- `holdings.csv`: Holdings of investors, including quantity and weight
+- `PRICES.csv`: Daily historical pricing data with open, close, adjusted prices, and returns
+
+These CSV files are used to populate the `Assets`, `Holdings`, and `Prices` tables in the SQL project.
+
+
 ---
 
 ## 🚀 How to Use
