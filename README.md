@@ -90,6 +90,15 @@ This is a simplified simulation and can be extended by adding:
 - Visualization dashboards (Tableau)
 
 ---
+🚀 Live Dashboard  
+👉 [View the Tableau Dashboard](https://public.tableau.com/app/profile/anshum.luthra/viz/INVESTORDASHBOARD/INVESTORDASHBOARD?publish=yes)
+
+## 📈 Key Insights
+- Total portfolio value by investor
+- Asset allocation by sector
+- Top 5 performing tickers by daily return
+- Holdings table with prices, weights, and returns
+
 
 ## 👤 Author
 
